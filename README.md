@@ -7,11 +7,11 @@ A custom **ESP32-S3** development board designed to be **reliable**, **good-qual
 
 ## Images
 
-![Schematic](schematic.png)
+![Schematic](docs/schematic.png)
 
-![Routing](route.png)
+![Routing](docs/route.png)
 
-![3D View](view.png)
+![3D View](docs/view.png)
 
 ---
 
