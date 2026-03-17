@@ -47,6 +47,7 @@ A custom **ESP32-S3** development board designed to be **reliable**, **good-qual
 ---
 
 ## BOM (JLCPCB Assembly Order)
+I removed the esp32 chip and the leds for a more economical PCBA.
 
 **Build qty:** 5 PCBs (inferred from U1/U2/U3/J1 qty = 5)  
 **Parts cost (from JLC export, parts only):** **$60.8676** (assembly + PCB + shipping not included)
